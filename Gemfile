@@ -56,7 +56,7 @@ gem 'cancan', "~> 1.6.10"
 gem 'carrierwave', '~> 0.9.0'
 gem 'fog', '~> 1.16.0'
 
-gem 'active_model_serializers', "=0.8.1"
+gem 'active_model_serializers', "0.10.0"
 
 gem 'rails_12factor', group: :production
 
