@@ -53,7 +53,7 @@ group :test do
 end
 
 gem 'cancan', "~> 1.6.10"
-gem 'carrierwave', '~> 0.9.0'
+gem 'carrierwave', '~> 1.3.1'
 gem 'fog', '~> 1.16.0'
 
 gem 'active_model_serializers', "=0.8.1"
